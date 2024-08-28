@@ -1,0 +1,67 @@
+*{
+    margin:0px
+    
+    }
+    .padre
+    {
+        width: 800;
+        height: 800px;
+        background-color: aqua;
+        padding: 80px;
+        margin: 80px;
+    }
+    .hijo1
+    {
+        width: 700px;
+        height: 700px;
+        background-color: red;
+        padding: 70;
+        margin: 70;
+    }
+    .hijo2
+    {
+        width: 600px;
+        height: 600px;
+        background-color: yellow;
+        padding: 60px;
+        margin: 60px;
+    
+
+    }
+    .hijo3
+    {
+        width: 500px;
+        height: 500px;
+        background-color: gray;
+        padding: 50px;
+        margin: 50px;
+    
+
+    }.hijo4
+    {
+        width: 400px;
+        height: 400px;
+        background-color: green;
+        padding: 40px;
+        margin: 40px;
+    
+
+    }.hijo5    {
+        width: 300px;
+        height: 300px;
+        background-color: blue;
+        padding: 30px;
+        margin: 30px;
+    
+
+    }.hijo6
+        {
+        width: 200px;
+        height: 200px;
+        background-color: pink;
+        padding: 20px;
+        margin: 20px;
+    
+
+    }
+    
